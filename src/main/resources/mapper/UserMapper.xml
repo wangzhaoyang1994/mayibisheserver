@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springbootpro.mapper.UserMapper">
+    <resultMap id="userEntity" type="com.example.springbootpro.entity.User">
+        <result property="id" column="id"/>
+        <result property="userName" column="user_name"/>
+        <result property="userPassword" column="user_password"/>
+        <result property="userRealName" column="user_realname"/>
+    </resultMap>
+    <parameterMap id="paramsEntity" type="java.util.Map">
+        <parameter property="userName" mode="IN" jdbcType="VARCHAR" javaType="String"/>
+        <parameter property="userPassword" mode="IN" jdbcType="VARCHAR" javaType="String"/>
+        <parameter property="userRealName" mode="OUT" jdbcType="VARCHAR" javaType="String"/>
+    </parameterMap>
+    <select id="selectUser" resultMap="userEntity">
+        select * from sys_user
+    </select>
+    <!--如果存储过程 返回的是数据库的字段，那么需要使用resultMap来接受数据-->
+    <select id="selectRealName" statementType="CALLABLE" parameterMap="paramsEntity" resultMap="userEntity">
+        call GETUSERREALNAMEBYCREAT(?,?,?);
+    </select>
+    <select id="selectRealNameByEntity" statementType="CALLABLE" parameterType="com.example.springbootpro.entity.User" resultMap="userEntity">
+        {
+            call GETUSERREALNAME(
+                #{userName,mode=IN,jdbcType=VARCHAR},
+                #{userPassword,mode=IN,jdbcType=VARCHAR},
+                #{userRealName,mode=OUT,jdbcType=VARCHAR}
+            )
+        }
+    </select>
+
+    <select id="selectUserByName" resultMap="userEntity">
+        select * from my_sys_user where user_name = #{userName}
+    </select>
+</mapper>

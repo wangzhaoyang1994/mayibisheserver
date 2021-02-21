@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de21eb7b-6fb0-4bd2-bce5-44c0eebd925c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/mymaven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\mymaven\apache-maven-3.6.3\conf\settingstest.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1klzNoMdbI6ZCrjssAQA11bbTlP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.springboot">
+    <configuration name="springboot" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootpro.SpringBootProApplication" />
+      <module name="mypro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootProApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mypro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootpro.SpringBootProApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de21eb7b-6fb0-4bd2-bce5-44c0eebd925c" name="Default Changelist" comment="" />
+      <created>1606289928433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606289928433</updated>
+      <workItem from="1606289929768" duration="7367000" />
+      <workItem from="1606350479919" duration="14005000" />
+      <workItem from="1606384470806" duration="790000" />
+      <workItem from="1606444785458" duration="5288000" />
+      <workItem from="1606524808562" duration="8721000" />
+      <workItem from="1606696826880" duration="1412000" />
+      <workItem from="1606706372565" duration="595000" />
+      <workItem from="1606711924184" duration="1234000" />
+      <workItem from="1606782289438" duration="821000" />
+      <workItem from="1607070701145" duration="3582000" />
+      <workItem from="1607303674445" duration="1013000" />
+      <workItem from="1607405836951" duration="3961000" />
+      <workItem from="1607748635482" duration="700000" />
+      <workItem from="1611123782489" duration="649000" />
+      <workItem from="1611990028459" duration="938000" />
+      <workItem from="1613722623693" duration="3765000" />
+      <workItem from="1613783229283" duration="3809000" />
+      <workItem from="1613793442197" duration="3858000" />
+      <workItem from="1613802404504" duration="1216000" />
+      <workItem from="1613811395182" duration="2066000" />
+      <workItem from="1613868238484" duration="1607000" />
+      <workItem from="1613872113517" duration="2501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613871923358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613871923358" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1613788797459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613788797459" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606294839827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606294839827" />
+    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1613796979812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="433" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1613796979812" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1611990689559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611990689559" />
+    <state width="1877" height="360" key="GridCell.Tab.0.bottom" timestamp="1613873247113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247113" />
+    <state width="1877" height="360" key="GridCell.Tab.0.center" timestamp="1613873247113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247113" />
+    <state width="1877" height="360" key="GridCell.Tab.0.left" timestamp="1613873247112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247112" />
+    <state width="1877" height="360" key="GridCell.Tab.0.right" timestamp="1613873247113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247113" />
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom" timestamp="1613873247008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247008" />
+    <state width="1877" height="360" key="GridCell.Tab.1.center" timestamp="1613873247008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247008" />
+    <state width="1877" height="360" key="GridCell.Tab.1.left" timestamp="1613873247008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247008" />
+    <state width="1877" height="360" key="GridCell.Tab.1.right" timestamp="1613873247008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613873247008" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1611990694604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611990694604" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1613868241273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613868241273" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mypro$springboot.ic" NAME="springboot Coverage Results" MODIFIED="1613795327211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
